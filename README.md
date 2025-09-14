@@ -1,16 +1,16 @@
-## Hi there 👋
+# Building with Purpose  
 
-<!--
-**shipwithgudi/shipwithgudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a product-focused developer working at the intersection of **WordPress, user experience, and the open web**.  
 
-Here are some ideas to get you started:
+### What I Do
+- Craft digital experiences with a balance of **clean code** and **design empathy**  
+- Contribute to **open-source ecosystems** and WordPress tooling  
+- Bridge product thinking with technical execution  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+Shaping digital experiences through thoughtful decisions — from architecture to interface.  
+
+### Philosophy
+*Ship with intention.* Build for longevity, clarity, and users first.  
+
+---
